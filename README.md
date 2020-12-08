@@ -6,7 +6,7 @@ For security reasons I didn't add the bank's configuration data.
 
 We have the Controllers and Routes.
 
-Was used:
+It was used:
 JavaScript,
 Node.js,
 Express.js,
